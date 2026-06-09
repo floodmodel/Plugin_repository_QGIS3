@@ -7,5 +7,6 @@
 2024.05. Minor bug fix in setting flow control data time interval.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Constant ratio option" for RigidROM and "output data value separator option" were added.  
 2025.02. QGRM v2025 for the GRM model v2025 was released.   
-2025.02. QGRM v2025 was improved for QGIS 3.40.   
+2026.04. QGRM v2025 was updated for compatibility with QGIS 3.40.  
+2026.06. Bug fix and GRM2025 (file version 2026.6.4.0) was applied.    
 
