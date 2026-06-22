@@ -9,4 +9,5 @@
 2025.02. QGRM v2025 for the GRM model v2025 was released.   
 2026.04. QGRM v2025 was updated for compatibility with QGIS 3.40.  
 2026.06. Bug fix and GRM2025 (file version 2026.6.4.0) was applied.    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The GRM v2025 (File version 2026.06.22.0) was applied. Bug fix in reading AutoROM options.  
 
