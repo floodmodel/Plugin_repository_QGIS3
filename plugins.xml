@@ -45,7 +45,7 @@
  <pyqgis_plugin name="QG2D" version="2022.26.07.30">
   <description>G2D Plugin for QGIS</description>
   <about>QG2D</about>
-  <version>2022.26.07.30</version>0
+  <version>2022.26.07.30</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3</homepage>
   <file_name>g2d.zip</file_name>
